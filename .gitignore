@@ -1,0 +1,7 @@
+target/
+nb-configuration.xml
+.idea/
+LINKTRACK_CONSULTANT.iml
+.classpath
+.project
+.settings/
